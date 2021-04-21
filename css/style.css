@@ -1,0 +1,23 @@
+
+
+.navbar {
+    background-color: blueviolet;
+}
+
+.quem-somos {
+    background-color: hotpink;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#parceiros {
+    background-color: dimgrey;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
